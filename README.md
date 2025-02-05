@@ -17,14 +17,14 @@
 
 ## Projects
 ### Desktop Application for a Transportation Network
-[Github Link]()
+[Github Link](https://github.com/LachlanArmsden/TransportationNetwork)
 
 - Created a simple Transportation Network program using C# to calculate the shortest path between a set of intersections.
 - Evaluated the time complexity and space complexity to create an efficient algorithm using "Big 0 Notation".
 - **Key Skills:** C#, Visual Studio Code.
 
 ### Mobile Application for Booking Events
-[Github Link]()
+[Github Link](https://github.com/LachlanArmsden/JavaMobileApp)
 
 - Created an Android mobile app using Java that allows users to browse events/tours.
 - Designed and implemented a UI focusing on the ease of intuitive navigation.
@@ -32,7 +32,7 @@
 - **Key Skills:** Java, Android API, lntelliJ IDEA.
 
 ### Machine Learning Model
-[Github Link]()
+[Github Link](https://github.com/LachlanArmsden/MachineLearning)
 
 - Created a machine learning model using Python to perform image classification on a dataset.
 - Utilised multiple of machine learning models including "Random Forests" model and "ResNet CNN" model.
